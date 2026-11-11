@@ -1,0 +1,5 @@
+.godot/
+*.exe
+*.pck
+*.zip
+*.log
